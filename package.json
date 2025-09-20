@@ -21,6 +21,7 @@
     },
     "dependencies": {
         "@hookform/resolvers": "^5.2.2",
+        "@inngest/agent-kit": "^0.9.0",
         "@prisma/client": "^6.16.2",
         "@tanstack/react-query": "^5.89.0",
         "@trpc/client": "^11.5.1",
